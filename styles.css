@@ -12,6 +12,7 @@ body{
     overflow: hidden; 
     align-items: center;
     text-align: center;
+    margin:auto;
 }
 #keys{
     display: flex;
